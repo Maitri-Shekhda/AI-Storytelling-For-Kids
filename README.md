@@ -48,7 +48,6 @@ Generate and interact with stories
 
 --
 
-
 ## 🙏 Acknowledgements
 FairytaleQA Dataset
 
